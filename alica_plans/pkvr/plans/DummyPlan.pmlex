@@ -1,0 +1,23 @@
+{
+  "plan" : "DummyPlan.pml#1585849746246",
+  "uiElementMap" : {
+    "1585899401090" : {
+      "id" : 1585899401091,
+      "name" : "1585899401091",
+      "comment" : "",
+      "x" : -298,
+      "y" : -110,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1585899403330" : {
+      "id" : 1585899403331,
+      "name" : "1585899403331",
+      "comment" : "",
+      "x" : -18,
+      "y" : -128,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}

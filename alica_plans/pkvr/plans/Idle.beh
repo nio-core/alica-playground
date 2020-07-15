@@ -1,0 +1,13 @@
+{
+  "id" : 1585901211194,
+  "name" : "Idle",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

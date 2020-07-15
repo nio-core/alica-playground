@@ -1,0 +1,13 @@
+{
+  "id" : 1585210187368,
+  "name" : "Init",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

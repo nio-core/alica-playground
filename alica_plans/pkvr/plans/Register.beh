@@ -1,0 +1,21 @@
+{
+  "id" : 1575026296341,
+  "name" : "Register",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "preCondition" : {
+    "id" : 1575027261529,
+    "name" : "1575027261529",
+    "comment" : "",
+    "enabled" : false,
+    "conditionString" : null,
+    "pluginName" : "DefaultPlugin",
+    "variables" : [ ]
+  },
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

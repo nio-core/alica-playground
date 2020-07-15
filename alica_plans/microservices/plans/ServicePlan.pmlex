@@ -1,0 +1,23 @@
+{
+  "plan" : "ServicePlan.pml#1560261009408",
+  "uiElementMap" : {
+    "1560262212790" : {
+      "id" : 1560262212791,
+      "name" : "1560262212791",
+      "comment" : "",
+      "x" : -817,
+      "y" : -163,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1560262220997" : {
+      "id" : 1560262220998,
+      "name" : "1560262220998",
+      "comment" : "",
+      "x" : -611,
+      "y" : -167,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "plan" : "EntryPlan.pml#1585215541605",
+  "uiElementMap" : {
+    "1585215579125" : {
+      "id" : 1585215579127,
+      "name" : "1585215579127",
+      "comment" : "",
+      "x" : 53,
+      "y" : -208,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1585215574843" : {
+      "id" : 1585215574844,
+      "name" : "1585215574844",
+      "comment" : "",
+      "x" : -344,
+      "y" : -210,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}

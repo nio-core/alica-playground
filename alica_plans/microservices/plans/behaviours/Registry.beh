@@ -1,0 +1,21 @@
+{
+  "id" : 1560262295454,
+  "name" : "Registry",
+  "comment" : "",
+  "relativeDirectory" : "behaviours",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "configurations" : [ {
+    "id" : 1560262295455,
+    "name" : "default",
+    "comment" : "",
+    "relativeDirectory" : "behaviours",
+    "variables" : [ ],
+    "behaviour" : 1560262295454,
+    "keyValuePairs" : { }
+  } ]
+}

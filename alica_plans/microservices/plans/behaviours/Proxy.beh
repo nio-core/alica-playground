@@ -1,0 +1,21 @@
+{
+  "id" : 1560626197460,
+  "name" : "Proxy",
+  "comment" : "",
+  "relativeDirectory" : "behaviours",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "configurations" : [ {
+    "id" : 1560626197462,
+    "name" : "default",
+    "comment" : "",
+    "relativeDirectory" : "behaviours",
+    "variables" : [ ],
+    "behaviour" : 1560626197460,
+    "keyValuePairs" : { }
+  } ]
+}

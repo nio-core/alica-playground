@@ -1,0 +1,21 @@
+{
+  "id" : 1575039858266,
+  "name" : "WaitForStart",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "preCondition" : {
+    "id" : 1575039952304,
+    "name" : "1575039952304",
+    "comment" : "",
+    "enabled" : true,
+    "conditionString" : null,
+    "pluginName" : "DefaultPlugin",
+    "variables" : [ ]
+  },
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

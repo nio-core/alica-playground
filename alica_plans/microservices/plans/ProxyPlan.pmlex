@@ -1,0 +1,23 @@
+{
+  "plan" : "ProxyPlan.pml#1560261023006",
+  "uiElementMap" : {
+    "1560626142730" : {
+      "id" : 1560626142731,
+      "name" : "1560626142731",
+      "comment" : "",
+      "x" : -209,
+      "y" : -36,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1560626146037" : {
+      "id" : 1560626146038,
+      "name" : "1560626146038",
+      "comment" : "",
+      "x" : 74,
+      "y" : -36,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}

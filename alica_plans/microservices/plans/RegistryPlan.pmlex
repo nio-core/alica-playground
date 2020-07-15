@@ -1,0 +1,23 @@
+{
+  "plan" : "RegistryPlan.pml#1560260998173",
+  "uiElementMap" : {
+    "1560262338497" : {
+      "id" : 1560262338498,
+      "name" : "1560262338498",
+      "comment" : "",
+      "x" : -43,
+      "y" : -71,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1560262336022" : {
+      "id" : 1560262336023,
+      "name" : "1560262336023",
+      "comment" : "",
+      "x" : -272,
+      "y" : -84,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}
