@@ -14,7 +14,7 @@
     "comment" : "",
     "successRequired" : false,
     "minCardinality" : 0,
-    "maxCardinality" : 20,
+    "maxCardinality" : 9999,
     "task" : "TaskRepo.tsk#1560257324591",
     "state" : 1560257595608,
     "plan" : 1560257414138
@@ -26,7 +26,7 @@
     "comment" : "",
     "entryPoint" : 1560257602072,
     "parentPlan" : 1560257414138,
-    "abstractPlans" : [ "behaviours/Initialization.beh#1560257552368" ],
+    "abstractPlans" : [ "behaviours/Initialization.beh#1560257552366" ],
     "variableBindings" : [ ],
     "outTransitions" : [ 1560260511449 ],
     "inTransitions" : [ ]
@@ -48,16 +48,16 @@
     "comment" : "MISSING_COMMENT",
     "inState" : 1560257595608,
     "outState" : 1560260429771,
-        "preCondition" : {
-        "id" : 1558109687647,
-        "name" : "1558109687647",
-        "comment" : "",
-        "enabled" : true,
-        "conditionString" : null,
-        "pluginName" : "DefaultPlugin",
-        "variables" : [ ],
-        "quantifiers" : [ ]
-        },
+    "preCondition" : {
+      "id" : 1558109687647,
+      "name" : "1558109687647",
+      "comment" : "",
+      "enabled" : true,
+      "conditionString" : null,
+      "pluginName" : "DefaultPlugin",
+      "variables" : [ ],
+      "quantifiers" : [ ]
+    },
     "synchronisation" : null
   } ],
   "synchronisations" : [ ]

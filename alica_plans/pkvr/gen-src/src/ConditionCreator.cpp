@@ -20,7 +20,7 @@ namespace alica
     {
     }
 
-    std::shared_ptr<BasicCondition> ConditionCreator::createConditions(long conditionConfId)
+    std::shared_ptr<BasicCondition> ConditionCreator::createConditions(int64_t conditionConfId)
     {
         switch (conditionConfId)
         {

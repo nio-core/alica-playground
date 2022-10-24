@@ -3,8 +3,8 @@
 #include "pkvr/modules/communication/communication.h"
 #include "pkvr/modules/model/model.h"
 
-#include <alica/reasoner/SimpleSolver.h>
-#include <alica_solver_interface/SimpleContext.h>
+// #include <alica/reasoner/SimpleSolver.h>
+// #include <alica_solver_interface/SimpleContext.h>
 #include <engine/IRoleAssignment.h>
 #include <engine/model/EntryPoint.h>
 #include <engine/model/Role.h>

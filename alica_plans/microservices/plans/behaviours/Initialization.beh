@@ -6,16 +6,16 @@
   "variables" : [ ],
   "frequency" : 0,
   "deferring" : 0,
-  "preCondition" : null,
+  "preCondition" : {
+    "id" : 1560257552368,
+    "name" : "1560257552368",
+    "comment" : "",
+    "enabled" : false,
+    "conditionString" : null,
+    "pluginName" : "DefaultPlugin",
+    "variables" : [ ]
+  },
   "runtimeCondition" : null,
   "postCondition" : null,
-  "configurations" : [ {
-    "id" : 1560257552368,
-    "name" : "default",
-    "comment" : "",
-    "relativeDirectory" : "behaviours",
-    "variables" : [ ],
-    "behaviour" : 1560257552366,
-    "keyValuePairs" : { }
-  } ]
+  "parameters" : { }
 }

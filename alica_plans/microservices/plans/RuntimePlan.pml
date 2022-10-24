@@ -14,7 +14,7 @@
     "comment" : "",
     "successRequired" : false,
     "minCardinality" : 0,
-    "maxCardinality" : 2,
+    "maxCardinality" : 1,
     "task" : "TaskRepo.tsk#1559058172419",
     "state" : 1560262059669,
     "plan" : 1560262020541
@@ -24,7 +24,7 @@
     "comment" : "",
     "successRequired" : false,
     "minCardinality" : 0,
-    "maxCardinality" : 2,
+    "maxCardinality" : 1,
     "task" : "TaskRepo.tsk#1559058199488",
     "state" : 1560262108766,
     "plan" : 1560262020541
@@ -34,7 +34,7 @@
     "comment" : "",
     "successRequired" : false,
     "minCardinality" : 0,
-    "maxCardinality" : 2,
+    "maxCardinality" : 1,
     "task" : "TaskRepo.tsk#1559058183279",
     "state" : 1560626037188,
     "plan" : 1560262020541

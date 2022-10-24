@@ -25,7 +25,7 @@ namespace alica
     }
 
 
-    std::shared_ptr<BasicConstraint> ConstraintCreator::createConstraint(long constraintConfId)
+    std::shared_ptr<BasicConstraint> ConstraintCreator::createConstraint(int64_t constraintConfId)
     {
         switch(constraintConfId)
         {
