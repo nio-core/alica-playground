@@ -1,0 +1,9 @@
+ROBOT=agentA1 ./PKVRAgent -m EntryPlan -pp '/Users/alex/Development/Dev.Cloud.Area/C++/ALICA_independent/playground/alica_plans/pkvr'
+
+./PKVRBroker
+
+java -jar target/server-2019-2.1-jar-with-dependencies.jar --monitor 8000
+
+
+touch src/pkvr/agent.cpp
+~/Development/Dev.Cloud.Area/C++/premake-core/bin/release/premake5 gmake2 make --file=microservice.lua
